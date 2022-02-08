@@ -13,4 +13,4 @@ elif not(Is_male) and Is_tall:
 
 else:
     print("You are nither male nor tall.")
-
+    
